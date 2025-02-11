@@ -100,8 +100,9 @@ This project leverages Tableau or Power BI for creating dashboards. Exported dat
 
 ## Author
 Priyanka Reddy Kuta
+For questions or suggestions, please contact:
+Priyanka Reddy Kuta : peddykuta@gmail.com
 
 ---
 
-## License
-This project is licensed under none.
+
